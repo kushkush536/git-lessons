@@ -1,0 +1,2 @@
+this is my firs file in git!
+this is new line
